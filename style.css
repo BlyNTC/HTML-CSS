@@ -19,6 +19,7 @@ body {
     font-weight: 600;
     margin: 0px;
     display: flex;
+    font-size: 1.25em;
 }
 .skills {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
@@ -30,35 +31,36 @@ body {
     font-family: monospace;
     font-weight: 600;
     width: 60%;
-    font-size: 1.10em;
-    margin: 20px;
+    font-size: 1.3em;
+    margin: 40px;
+
 }
 .list2 {
     font-family: monospace;
     font-weight: 600;
     width: 60%;
-    font-size: 1.14em;
-    margin: 20px;
+    font-size: 1.3em;
+    margin: 40px;
 }
 .list3 {
     font-family: monospace;
     font-weight: 600;
     width: 60%;
-    font-size: 1.16em;
-    margin: 20px;
+    font-size: 1.3em;
+    margin: 40px;
 }
 .list4 {
     font-family: monospace;
     font-weight: 600;
     max-width: 600px;
-    font-size: 1.18em;
-    margin: 20px;
+    font-size: 1.3em;
+    margin: 40px;
     
 }
 .foto {
     margin: 40px;
     width: 190px;
-    background-color: yellow;
+    background-color: #f8e4c9;
     padding: 10px;
 }
 .header {
